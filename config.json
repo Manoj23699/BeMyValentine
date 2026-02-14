@@ -25,74 +25,74 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "assets/cute-bear.gif",
+    "musicBearGif": "assets/music-bear.gif",
+    "comfortBearGif": "assets/comfort-bear.gif",
+    "kissBearGif": "assets/kiss-bears.gif",
+    "photoBearGif": "assets/photo-bear.gif",
+    "loveYouBearGif": "assets/love-you-bear.gif",
+    "childGif": "assets/child.gif",
+    "roseBearGif": "assets/rose-bear.gif",
+    "cookBearGif": "assets/cook-bear.gif",
+    "kissSingleBearGif": "assets/kiss-bear.gif",
+    "leftButton": "assets/left-button.png",
+    "rightButton": "assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "assets/gift/gift1.jpg",
+    "gift2": "assets/gift/gift2.jpg", 
+    "gift3": "assets/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "image": "assets/couple_photo/couple_photo_1.jpg",
       "caption": "Our first nice picture together"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "image": "assets/couple_photo/couple_photo_2.jpg", 
       "caption": "First time I came to Normal to be with you!"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "image": "assets/couple_photo/couple_photo_3.jpg",
       "caption": "Our goofy skin care moments!"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "image": "assets/couple_photo/couple_photo_4.jpg",
       "caption": "One of those dates to Red Lobster!"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "image": "assets/couple_photo/couple_photo_5.jpg",
       "caption": "Absolutely fell in love with your saree look!"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "image": "assets/couple_photo/couple_photo_6.jpg",
       "caption": "Tvaralo nijanga ne Arundathi nakshatram chupinchalani korukuntunna"
     }
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "assets/comfort-bear.gif", 
       "text": "I have a nice body to hug"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "assets/cute-bear.gif",
       "text": "I'm very patient!!'"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "assets/kiss-bears.gif",
       "text": "I'm very good kisser (maybe better than you)'"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "assets/photo-bear.gif",
       "text": "I'll try my best to improve my photography skills"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "assets/music-bear.gif",
       "text": "I have a very good taste in music 🎶😉"
     }
   ],
@@ -103,8 +103,8 @@
       "duration": "3:37",
       "album": "",
       "artist": "Ed Sheeran",
-      "cover": "/src/assets/album-covers/Perfect.jpg",
-      "audio": "/src/assets/songs/Perfect.mp3"
+      "cover": "assets/album-covers/Perfect.jpg",
+      "audio": "assets/songs/Perfect.mp3"
     },
     {
       "id": 2,
@@ -112,8 +112,8 @@
       "duration": "4:59",
       "album": "Mudhal nee Mudivum Nee",
       "artist": "",
-      "cover": "/src/assets/album-covers/mudhal_nee_mudivum_nee.jpg",
-      "audio": "/src/assets/songs/mudhal_nee.mp3"
+      "cover": "assets/album-covers/mudhal_nee_mudivum_nee.jpg",
+      "audio": "assets/songs/mudhal_nee.mp3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "04:51",
       "album": "Meet Cute",
       "artist": "",
-      "cover": "/src/assets/album-covers/madhithalapulu.jpg",
-      "audio": "/src/assets/songs/unakagathanae.mp3"
+      "cover": "assets/album-covers/madhithalapulu.jpg",
+      "audio": "assets/songs/unakagathanae.mp3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "3:45",
       "album": "Guna",
       "artist": "",
-      "cover": "/src/assets/album-covers/priyathama.jpg",
-      "audio": "/src/assets/songs/Aasa-Orave.mp3"
+      "cover": "assets/album-covers/priyathama.jpg",
+      "audio": "assets/songs/Aasa-Orave.mp3"
     },
     {
       "id": 5,
@@ -139,8 +139,8 @@
       "duration": "4:08",
       "album": "Surya son of Krishnan",
       "artist": "",
-      "cover": "/src/assets/album-covers/monna.jpg",
-      "audio": "/src/assets/songs/kadhal-kanave.mp3"
+      "cover": "assets/album-covers/monna.jpg",
+      "audio": "assets/songs/kadhal-kanave.mp3"
     }
   ],
   "letter": {
